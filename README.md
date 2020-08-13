@@ -2,6 +2,8 @@
 
 This contains some quick quality of life changes for my ortho layouts. Currently, just the Preonic Rev_3 is listed, but eventually the Planck will join in the fun.
 
+![EOTW Preonic](/media/preonic_eotw.png)
+
 ## Preonic Layout
 
 * **Layer 0** - The main typing layer, standard QWERTY. The lower left `Fn` key is changed to enable more robust RGB controls on Layer 1.
