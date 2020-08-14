@@ -175,7 +175,7 @@
             "KC_F11",
             "KC_F12",
             "KC_NO",
-            "KC_MPRV",
+            "KC_TRNS",
             "KC_HOME",
             "KC_END",
             "KC_TRNS",
@@ -187,10 +187,10 @@
             "KC_TRNS",
             "KC_TRNS",
             "MO(4)",
-            "KC_MNXT",
-            "KC_VOLD",
-            "KC_VOLU",
-            "KC_MPLY"
+            "KC_TRNS",
+            "KC_TRNS",
+            "KC_TRNS",
+            "KC_TRNS"
         ],
         [
             "KC_NO",
@@ -237,7 +237,7 @@
             "KC_F11",
             "KC_F12",
             "KC_NUHS",
-            "KC_NO",
+            "KC_MPRV",
             "KC_PGUP",
             "KC_PGDN",
             "KC_TRNS",
@@ -249,10 +249,10 @@
             "KC_TRNS",
             "KC_TRNS",
             "KC_TRNS",
-            "KC_NO",
-            "KC_NO",
-            "KC_NO",
-            "KC_NO"
+            "KC_MNXT",
+            "KC_VOLD",
+            "KC_VOLU",
+            "KC_MPLY"
         ],
         [
             "KC_F1",
